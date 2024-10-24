@@ -1,22 +1,22 @@
 ---
-title: "Finley Malloc"
+title: "Elena D. Díaz Santiago"
 about:
   template: trestles
   image: avatar.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
-    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: "mailto: elenadiazsantiago.92@gmail.com"
+    #- icon: mastodon
+    #  href: https://joinmastodon.org
+    #- text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+    #  href: https://bsky.app
+    #- text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
+    #  href: https://x.com
     - icon: github
-      href: https://github.com
+      href: https://github.com/Elenadisa
     - icon: linkedin
-      href: https://linkedin.com/
+      href: https://www.linkedin.com/in/elena-dolores-d%C3%ADaz-santiago-45a27582?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPc4ot9OZSEGghTazqvinaQ%3D%3D
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
       href: https://scholar.google.com
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
@@ -24,12 +24,11 @@ about:
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Doctora en biología celular y molecular cum laude y mención internacional (especialidad biología de sistemas y bioinformática). Graduada en Biología. Máster en Análisis Biológico y Diagnóstico de Laboratorio. 
+Joven investigadora del departamento de biología molecular y bioquímica, en el laboratorio de biocomputación Universidad de Málaga. 
+Miembro de la Junta directiva de la Asociación Sirona
 
 ## Education
 
@@ -41,6 +40,6 @@ B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Estación Experimental de Zonas Áridas - CSIC | Postdoctoral Scientist | Bioinformatic | Data Scientist June 2024 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Málaga University | Bioinformatics | Predoctoral Scientist | January 2017 - December 2023
